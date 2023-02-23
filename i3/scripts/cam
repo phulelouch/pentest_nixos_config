@@ -1,0 +1,1 @@
+mpv /dev/video0 --geometry=-20-20 --autofit=28%
